@@ -1,0 +1,22 @@
+img{
+    width: 350px;
+    height: 350px;
+    text-align: center;
+    padding: 1px;
+    border: solid blue;
+    transition: all ease-in-out 0.3s;
+    background: white;
+    margin: auto;
+
+}
+img:hover{
+    transform: scale(0.9);
+}
+.contenedor{
+    background-color: black;
+    width: 85%;
+    border: 10px solid #035;
+}
+html{
+    background-color: black;
+}
